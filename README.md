@@ -11,5 +11,5 @@ It fetches real-time weather data from the OpenWeatherMap API and displays tempe
 - ⚠️ Error handling for invalid city names
 - 📱 Fully responsive UI
 
-Screenshot:
+
 <img width="474" height="577" alt="image" src="https://github.com/user-attachments/assets/75ebfb2c-d06d-468f-bb6e-de60ec831ade" />
